@@ -2,7 +2,7 @@
 
 A Python project that simulates a coffee machine using Object-Oriented Programming concepts.
 
-## Files:
+### Files:
 - `main.py` – runs the coffee machine loop
 - `coffee_maker.py` – handles water, milk, and coffee resources
 - `menu.py` – defines drink menu and ingredients
